@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# 输出目录
+计算结果/
+
+# 系统文件
+.DS_Store
+Thumbs.db
